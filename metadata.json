@@ -1,0 +1,5 @@
+{
+  "name": "MathQuest: Galactic Intelligence",
+  "description": "An AI-powered adaptive math learning game. Solve problems, earn badges, and track your progress across the galaxy using Gemini AI and persistent cloud storage.",
+  "requestFramePermissions": []
+}
